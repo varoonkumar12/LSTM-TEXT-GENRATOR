@@ -1,0 +1,14 @@
+# Ignore raw text data files
+*.txt
+*.csv
+data/
+
+# Ignore local checkpoints or raw training scripts if needed
+train.py
+
+# Ignore typical Python environment files
+__pycache__/
+*.pyc
+.venv/
+env/
+.streamlit/
